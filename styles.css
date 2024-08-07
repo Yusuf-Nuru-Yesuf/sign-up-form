@@ -158,3 +158,10 @@ body {
     color: red;
     font-size: 0.8rem;
 }
+
+input:invalid:not(:placeholder-shown) + span {
+    display: inline;
+}
+input:invalid:not(:placeholder-shown) {
+    border-color: red;
+}
