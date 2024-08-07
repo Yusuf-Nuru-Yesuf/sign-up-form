@@ -131,3 +131,11 @@ body {
 .form-row span {
     display: inline-block;
 }
+
+.form-row input {
+    min-width: 10rem;
+    max-width: 16rem;
+    border: 1px solid #E5E7EB;
+    border-radius: 5px;
+    height: 1.5rem;
+}
