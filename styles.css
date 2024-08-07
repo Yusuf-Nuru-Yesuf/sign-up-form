@@ -32,3 +32,12 @@ body {
 .content-container .picture {
     flex: 1;
 }
+
+.content-container .picture {
+    background: url("img/background.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    min-width: 400px;
+    max-width: 500px;
+    border-radius: 8px 0 0 8px; 
+}
