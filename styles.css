@@ -125,3 +125,9 @@ body {
     flex-direction: column;
     padding: 3px;
 }
+
+.form-row label,
+.form-row input,
+.form-row span {
+    display: inline-block;
+}
