@@ -145,3 +145,10 @@ body {
     box-shadow: 0 0 5px rgba(0, 255, 4, 0.5);
     outline: none;
 }
+
+.form-row label {
+    width: 8rem;
+    font-size: 0.7rem;
+    margin-bottom: 0.3rem;
+    font-family: "Helvetica", sans-serif;
+}
