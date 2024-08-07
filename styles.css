@@ -139,3 +139,9 @@ body {
     border-radius: 5px;
     height: 1.5rem;
 }
+
+.form-row input:focus{
+    border-color: rgba(7, 55, 20, 0.97);
+    box-shadow: 0 0 5px rgba(0, 255, 4, 0.5);
+    outline: none;
+}
